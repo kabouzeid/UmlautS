@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-22 at 18:23 (CEST)-->
-<keyboard group="126" id="-6612" name="U.S." maxout="1">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-22 at 18:43 (CEST)-->
+<keyboard group="126" id="-37" name="UmlautS" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
